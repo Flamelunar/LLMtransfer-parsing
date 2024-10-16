@@ -3,6 +3,6 @@
 https://flamelunar.github.io/LLMtransfer-parsing
 
 ### Overall Architecture
-<img src="structure.jpg" alt="overall architecture" width="700px" height="500px">
+<img src="structure.jpg" alt="overall architecture" width="550px" height="500px">
 
 
